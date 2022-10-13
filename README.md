@@ -1,1 +1,1 @@
-# odin-recipes
+This project is part of the odin project as I learn how to use git through the terminal
